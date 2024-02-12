@@ -9,7 +9,7 @@ Zombie killing FPS game, which was my term paper. It contains basic mechanics.
 
 ![Resim 2](https://github.com/omersenpai/FpsZombieGame/raw/main/map.png)
 
-**Fps Controller**
+**Explosion Effect**
 
 ![Resim 3](https://github.com/omersenpai/FpsZombieGame/raw/main/fps.png)
 
